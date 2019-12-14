@@ -11,6 +11,3 @@ _**This disclaimer informs readers that the views, thoughts, and opinions expres
 * Guest Cluster
 
 
-### [Part 2](https://github.com/roie9876/Pacific/tree/master/Part%201)
-
-* TDB
