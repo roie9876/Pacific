@@ -116,5 +116,6 @@ Deploying this YAML file into the Supervisor cluster will create new Kubernetes 
 
 With this blogpost I tried to simplify Project Pacific goal and go over the technical details of the project, hopefully now it makes more sense.
 
+thanks to Amir Marouani for reviewing this log
 
 [Back to Table of Contents](#Table-Of-Contents)
